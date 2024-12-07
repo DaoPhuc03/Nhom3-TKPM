@@ -1,0 +1,3 @@
+Trong bài tập lớn này em có sử dụng Mermaid để vẽ các sơ đồ và bảng (file .md). Theo đó, Mermaid là một công cụ mã nguồn mở giúp tạo ra các sơ đồ và biểu đồ từ văn bản đơn giản, sử dụng cú pháp gần giống với Markdown. 
+Với Mermaid, chúng ta có thể dễ dàng vẽ các sơ đồ như sơ đồ trình tự (sequence diagrams), sơ đồ lớp (class diagrams), sơ đồ luồng (flowcharts), và nhiều loại sơ đồ UML khác chỉ bằng cách viết mã. Công cụ này đặc biệt hữu ích khi tích hợp vào các tài liệu Markdown, cho phép người dùng nhanh chóng tạo và chia sẻ sơ đồ trong các nền tảng như GitHub, GitLab mà không cần phần mềm vẽ sơ đồ chuyên dụng (tự render trong github).
+![image](https://github.com/user-attachments/assets/fcd8e0fd-1073-48f7-a1e9-3d6238168760)
